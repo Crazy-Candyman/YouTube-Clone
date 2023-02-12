@@ -1,0 +1,19 @@
+p {
+  font-family: roboto;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+body {
+  margin: 0px;
+}
+
+.youtube {
+  padding-top: 57px;
+  padding-left: 72px;
+  background-color: rgb(249, 249, 249);
+}
+
+.footer {
+  height: 200px;
+}
